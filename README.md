@@ -158,4 +158,4 @@ To compile the code, click on the "Solidity Compiler" tab in the left-hand sideb
 
 Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "defitoken" contract from the dropdown menu, and then click on the "Deploy" button.
 
-Once the contract is deployed, it will pop up your metamask connet it once you have done that, click on the difrToken file and mint to your address. it will pop up your metamask to comfirm the amount you want to mint then go to the Vault file code to approve the amount to mint enter the adress you mint to with the amount and approve it in your metamask then from there you can tranfer and do some other thing thing in the contract.
+Once the contract is deployed, it will pop up your metamask connet it once you have done that, click on the difrToken file and mint to your address. it will pop up your metamask to comfirm the amount you want to mint then go to the Vault file code to approve the amount to mint enter the adress you mint to with the amount and approve it in your metamask then from there you can tranfer and do some other thing in the contract.
